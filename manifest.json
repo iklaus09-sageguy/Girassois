@@ -2,7 +2,7 @@
   "name": "Girassois Energia",
   "short_name": "Girassois",
   "description": "Sistema de Manutencao de Inversores Solares",
-  "start_url": "./index.html",
+  "start_url": "./girassois_pwabuilder.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
@@ -11,13 +11,13 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "https://raw.githubusercontent.com/iklaus09-sageguy/Girassois/main/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icon-512.png",
+      "src": "https://raw.githubusercontent.com/iklaus09-sageguy/Girassois/main/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
